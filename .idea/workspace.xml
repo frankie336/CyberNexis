@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="89ceeb42-57fc-4461-ab9e-47b0965474da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/oppenheimer/src/assets/images/athena/nulympia.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="89ceeb42-57fc-4461-ab9e-47b0965474da" name="Changes" comment="migration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files.py" beforeDir="false" afterPath="$PROJECT_DIR$/files.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +37,18 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/home/primethanos/PycharmProjects/CyberNexis/oppenheimer/src/assets/images"
+    "last_opened_file_path": "/home/primethanos/PycharmProjects/CyberNexis/oppenheimer/src/assets"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oppenheimer/src/assets" />
+      <recent name="$PROJECT_DIR$/oppenheimer/src/assets/images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/oppenheimer/src/assets/images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="files" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="CyberNexis" />
@@ -85,6 +94,28 @@
       <option name="presentableId" value="Default" />
       <updated>1708179878242</updated>
     </task>
+    <task id="LOCAL-00001" summary="athena">
+      <option name="closed" value="true" />
+      <created>1708180326157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708180326157</updated>
+    </task>
+    <task id="LOCAL-00002" summary="migration">
+      <option name="closed" value="true" />
+      <created>1708215141492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708215141492</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="athena" />
+    <MESSAGE value="migration" />
+    <option name="LAST_COMMIT_MESSAGE" value="migration" />
   </component>
 </project>
